@@ -16,3 +16,4 @@ hello git!hot-fix test!
 hi!
 77777777777777777
 write again!
+write by new clone
